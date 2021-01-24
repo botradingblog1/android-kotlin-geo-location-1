@@ -11,7 +11,7 @@ This is an Android sample app written in Kotlin which shows how to track the dev
 * Display latitude and longitude results in the UI
 
 ## Supporting material
-For a step-by-step tutorial, please see my [blog post on getting geo location in Android with Kotlin](https://mobiledeveloperblog.com/taking-and-saving-camera-images-with-android-and-kotlin/).
+For a step-by-step tutorial, please see my [blog post on getting geo location in Android with Kotlin](https://mobiledeveloperblog.com/getting-the-geo-location-with-android-and-kotlin/).
 
 ## Getting Started
 1. Cone the project from GitHub
